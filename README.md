@@ -36,3 +36,4 @@ Entrada: [1, 0], Salida: 1
 Entrada: [1, 1], Salida: 1
 
 ## Archivos disponibles
+Perceptrón.ipynb el script crear un modelo que resuelva la compuerta AND y OR.
