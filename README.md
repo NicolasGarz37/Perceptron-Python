@@ -1,5 +1,12 @@
 # Perceptrón para compuertas AND y OR en pyhton
 Implementación de perceptrón para crear un modelo que resuelva la compuerta AND y OR.
+- Compuertas AND y OR
+  
+  Son operaciones lógicas que utilizamos en la programción y en el diseño de circuitos.
+  
+  - AND: En ésta compuerta la salida solo es 1 cuando ambas entradas son 1, de lo contrario la salida es 0.
+
+  - OR: En ésta compuerta la salida es 1 cuando al menos una entrada es 1, cuando las dos entradas son 0 la salida es 0.
 
 ## Requisitos
 - Google colab
